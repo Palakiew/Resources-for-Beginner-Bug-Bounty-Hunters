@@ -1,0 +1,61 @@
+Bug bounty hunting is a career that is known for the heavy use of security tools. These tools help the hunters find vulnerabilities in software, web applications and websites, and are an integral part of bounty hunting. Below is our top 10 list of security tools for bug bounty hunters.
+10. HackBar
+
+HackBar is a security auditing/penetration tool that is a Mozilla Firefox add-on. Bug bounty hunters will find that this tool allows them to test site security, XSS holes and SQL injections. Some of the advantages of HackBar include:
+
+    All HackBar functions work on text that you currently have selected
+    Hashing of MD5/SHA1/SHA256
+    Sandbox-like text area
+    Useful MS SQL Server/MySQL shortcuts
+
+If you are interested in HackBar, you can find it here.
+9. Wfuzz
+
+Written in Python, Wfuzz is a tool that will help bug bounty hunters bruteforce web applications. Wfuzz is useful for sniffing out resources that are not linked such as directories and scripts, POST and GET parameter-checking for multiple kinds of injections, form parameter checking, fuzzing and other uses. Features that users will find attractive include:
+
+    Default output is in HTML
+    Capability to check multiple injection points
+    Bruteforcing for all parameters
+    Automatic/artificial request time delays
+    Results can be hidden via word numbers, return code, line numbers and regex
+8. IronWASP
+
+When checking for vulnerabilities in your websites, IronWASP is going to quickly become one of your best friends. This web security scanner is open source and free to use, and more powerful than you think it would be for being so wallet-friendly. Some great features include:
+
+    Login sequence recording is supported
+    False-positive and negative-positive detection are supported
+    Reporting is available in both RTF and HTML formats
+    Easy to use and with a simple-to-understand GUI, even an inexperienced information security employee can quickly use it
+
+If IronWASP has piqued your interest, you can find it here.
+7. INalyzer
+
+Not to be left out, mobile applications are definitely a contemporary area of interest for bug bounty hunters. One of the best among them is INalyzer for the iOS platform. Hosted by App Sec Labs, INalyzer makes manipulation of iOS applications a breeze. Tampering with methods and parameters is available and INalyzer can target closed applications, which means that your black-box project can now be considered gray-box. For more information on INalyzer, click here.
+6. Wapiti
+
+Wapiti is a command-line application tool that allows bug bounty hunters to audit the security of websites and web applications. Operationally, Wapiti crawls web applications with black-box scans and looks for points where it can inject code. When Wapiti finds a list of forms, form inputs and URLs, it acts like a fuzzer by injecting payloads to check for script vulnerability. Some notable features include:
+
+    Server-side request forgery
+    Reflected and permanent XSS injection
+    ShellShock
+    Includes a buster module that allows for bruteforcing filenames and directories on a target web server
+    POST HTTP and GET attack methods are supported
+    The scan process includes an option to set maximum scan time
+5. Reverse IP Lookup
+
+Sometimes as a security researcher, especially for bug bounty hunters, all you have is an IP address to work with. This may seem trivial to the untrained eye, but experienced hunters know you can really do a lot with it. Hosted on DomainTools, Reverse IP Lookup will find all domains hosted on the IP, track domains that are coming and going, and output result data into .csv reports. IP lookups are free if you are a DomainTools Personal or Enterprise member. To give Reverse IP Lookup a go, click here.
+4. DNS-Discovery
+
+Hosted on GitHub, DNS-Discovery is a great tool for the bug bounty hunter. This tool is a multithreaded (a breath of fresh air from some other similar tools) subdomain bruteforcer that uses a word list to concatenate with a domain to look for subdomains. DNS-Discovery allows for resolution and display of both IPv4 and IPv6.
+
+3. Google Dorks
+
+Google Dorks is a solid go-to to use when searching for hidden data and access pages on websites. This tool relies in part on the part of the website indexing power of Google and this volume of data is useful for bug bounty hunters. Google Dorks also does a good job with network mapping and can assist in finding subdomains.
+
+2. Vulnerability Lab
+While not a "tool" in the purest sense, Vulnerability Lab is definitely a helpful website that hunters would do well to keep in the toolbox. Vulnerability Lab is a project that provides vulnerability research, vulnerability assessments and bug bounties. Among some of the most useful aspects are the web application vulnerabilities and website vulnerabilities. This would definitely be one of the first resources I would consult when beginning a bug bounty hunt.
+1. Burp Suite
+
+The top spot on the list of security tools for bug bounty hunters belongs to Burp Suite, and for good reason. Burp Suite is an integrated security-testing platform for web applications that gives hunters what they need to get the job done. It allows you to perform scans on everything you want from full crawls to individual URLs and covers over 100 generic vulnerabilities. Burp Suite also supports many kinds of attach insertion points and nested insertion points. At the end of the day, Burp Suite offers a clear and comprehensive presentation of vulnerabilities. This is a paid tool and can be found
+
+here.
